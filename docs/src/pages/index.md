@@ -1,3 +1,4 @@
+[bug_report.md](https://github.com/eslint/eslint/files/10778334/bug_report.md)
 ---
 title: Documentation
 permalink: /index.html
